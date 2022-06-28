@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # Simple Microverse Webpage
 
 ## Built With
@@ -7,5 +8,12 @@
 ## Live Demo
 Live Demo is currently not available
 
-## Authors
-Github: @https://github.com/Apt2tell/hello-world
+
+
+Author
+
+
+👤 **Author**
+
+- **GitHub:** @Apt2tell
+- **Twitter:** @Excel4eva
